@@ -1,10 +1,37 @@
+Animations:
+
+  ☐ basic walking
+  ☐ sprite can handle turning around
+  ☐ idle animation?
+  ☐ falling
+  ☐ jumping 
+  ☐ shooting 
+    ☐ shoot while jumping 
+    ☐ shoot while running
+
+  ---
+
+  ☐ can we re-color the sprite at all without having to splice a new thing?
+    ☐ potentially very easility switch out one pallet for a nother with the same general sprite mechanics in game or with a switch?
+
+Todo:
+
+  ☐ remove wall jumps and wall sticking in general, its pointless right now, but no need to delete its code I guess
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 Sprites:
 
-  - https://www.spriters-resource.com/nes/mm/
+  - http://www.sprites-inc.co.uk/sprite.php?local=/Classic/Megaman/MM8/
+
+  - https://www.spriters-resource.com/nes/mm2/
   - http://thegamersjournal.com/action/nes/megaman/sprites.php
   - http://tsgk.captainn.net/?p=showgame&t=sy&sy=6&ga=177
   
 Online:
   
-  ☐ hmmm...
+  ☐ https://www.youtube.com/watch?v=V6wEvT6G92M
+  ☐ https://www.youtube.com/watch?v=-_0TtPY5LCc
+  ☐ https://www.youtube.com/watch?v=JlKf0h0K5PU
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Archive:
+
