@@ -21,7 +21,7 @@ public class PlatformController : RaycastController {
 
 	List<PassengerMovement> passengerMovement;
 	Dictionary<Transform,Controller2D> passengerDictionary = new Dictionary<Transform, Controller2D>();
-	
+
 	public override void Start () {
 		base.Start ();
 

@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 8049de5fc277a774fa1b4dfc009639d4
+timeCreated: 1487130906
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mm3weaponsheet_0
+    21300002: mm3weaponsheet_1
+    21300004: mm3weaponsheet_2
+    21300006: mm3weaponsheet_3
+    21300008: mm3weaponsheet_4
+    21300010: mm3weaponsheet_5
+    21300012: mm3weaponsheet_6
+    21300014: mm3weaponsheet_7
+    21300016: mm3weaponsheet_8
+    21300018: mm3weaponsheet_9
+    21300020: mm3weaponsheet_10
+    21300022: mm3weaponsheet_11
+    21300024: mm3weaponsheet_12
+    21300026: mm3weaponsheet_13
+    21300028: mm3weaponsheet_14
+    21300030: mm3weaponsheet_15
+    21300032: mm3weaponsheet_16
+    21300034: mm3weaponsheet_17
+    21300036: mm3weaponsheet_18
+    21300038: mm3weaponsheet_19
+    21300040: mm3weaponsheet_20
+    21300042: mm3weaponsheet_21
+    21300044: mm3weaponsheet_22
+    21300046: mm3weaponsheet_23
+    21300048: mm3weaponsheet_24
+    21300050: mm3weaponsheet_25
+    21300052: mm3weaponsheet_26
+    21300054: mm3weaponsheet_27
+    21300056: mm3weaponsheet_28
+    21300058: mm3weaponsheet_29
+    21300060: mm3weaponsheet_30
+    21300062: mm3weaponsheet_31
+    21300064: mm3weaponsheet_32
+    21300066: mm3weaponsheet_33
+    21300068: mm3weaponsheet_34
+    21300070: mm3weaponsheet_35
+    21300072: mm3weaponsheet_36
+    21300074: mm3weaponsheet_37
+    21300076: mm3weaponsheet_38
+    21300078: mm3weaponsheet_39
+    21300080: mm3weaponsheet_40
+    21300082: mm3weaponsheet_41
+    21300084: mm3weaponsheet_42
+    21300086: mm3weaponsheet_43
+    21300088: mm3weaponsheet_44
+    21300090: mm3weaponsheet_45
+    21300092: mm3weaponsheet_46
+    21300094: mm3weaponsheet_47
+    21300096: mm3weaponsheet_48
+    21300098: mm3weaponsheet_49
+    21300100: mm3weaponsheet_50
+    21300102: mm3weaponsheet_51
+    21300104: mm3weaponsheet_52
+    21300106: mm3weaponsheet_53
+    21300108: mm3weaponsheet_54
+    21300110: mm3weaponsheet_55
+    21300112: mm3weaponsheet_56
+    21300114: mm3weaponsheet_57
+    21300116: mm3weaponsheet_58
+    21300118: mm3weaponsheet_59
+    21300120: mm3weaponsheet_60
+    21300122: mm3weaponsheet_61
+    21300124: mm3weaponsheet_62
+    21300126: mm3weaponsheet_63
+    21300128: mm3weaponsheet_64
+    21300130: mm3weaponsheet_65
+    21300132: mm3weaponsheet_66
+    21300134: mm3weaponsheet_67
+    21300136: mm3weaponsheet_68
+    21300138: mm3weaponsheet_69
+    21300140: mm3weaponsheet_70
+    21300142: mm3weaponsheet_71
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mm3weaponsheet_0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 314
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 314
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 324
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 283
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 283
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 292
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 247
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_7
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 247
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 254
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 252
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_10
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 252
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_11
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 218
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 224
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 221
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 227
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 225
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_16
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 233
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 221
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 197
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_19
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 197
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 209
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 209
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 209
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 211
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_24
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 211
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 218
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 208
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 168
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_29
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 168
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 168
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_31
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 168
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 175
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 173
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 129
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 130
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_39
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 130
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_41
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 130
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 95
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 95
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_46
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_47
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 95
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_49
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 95
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_50
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 61
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 61
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 66
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_55
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 73
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 65
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_57
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 72
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_59
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 63
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_60
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 29
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_61
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 29
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_63
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_64
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_65
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_68
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_69
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_70
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mm3weaponsheet_71
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

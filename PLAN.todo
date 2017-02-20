@@ -1,22 +1,93 @@
+Problems:
+
+  ☐ The running animation isnt synced with the shooting+running animation (ie: left foot)
+  ☐ the megabuster shot's start position when running is waay off
+
+Tiles:
+
+  ! Important !
+  - http://www.firebelly.net/post/114529965784/tile-gaps-using-unity-5-and-tiled2unity
+
+  ✔ create basic tileset that we can play with, import into unity @done (17-02-13 21:21)
+    ✔ use the tileset downloaded from that one website of free assets @done (17-02-13 21:21)
+  ✔ get rid of seams in the map @done (17-02-13 22:37)
+  ✔ edit an existing map and re-export to unity @done (17-02-13 22:38)
+  ✔ play with moving platforms with that tileset @done (17-02-14 22:25)
+    - seems like we have to generate them as custom prefabs and not delegate them to the map editor
+    - probably better that way so we can have finer control over things that move as well as ability to update map's easy without corrupting anything
+  ☐ animated tiles
+    - lava
+    - water
+    - flash man stage
+
 Animations:
 
-  ☐ basic walking
-  ☐ sprite can handle turning around
-  ☐ idle animation?
-  ☐ falling
-  ☐ jumping 
-  ☐ shooting 
-    ☐ shoot while jumping 
-    ☐ shoot while running
+  ✔ basic walking @done (17-02-12 20:09)
+  ✔ sprite can handle turning around @done (17-02-12 20:09)
+  ✔ idle animation? @done (17-02-12 20:09)
+  ✔ falling @done (17-02-12 20:09)
+  ✔ jumping @done (17-02-12 20:09)
+  ✔ shooting @done (17-02-18 19:58)
+    ✔ shoot while jumping @done (17-02-18 19:58)
+    ✔ shoot while running @done (17-02-18 19:58)
+  ☐ getting hit animation
+  ☐ death animation
+  ☐ ladder climbing
 
   ---
 
   ☐ can we re-color the sprite at all without having to splice a new thing?
     ☐ potentially very easility switch out one pallet for a nother with the same general sprite mechanics in game or with a switch?
 
-Todo:
+Weapons:
+
+  Megabuster:
+
+    ☐ 3 onscreen at most
+    ☐ collides with enemies
+    ☐ plays sound
+    ☐ damages enemies
+
+Audio:
+
+  ☐ super basic on shoot sound (jumps as well?)
+  ☐ dr wiley castle stage 1 as default on load
+
+Enemies:
+
+  ☐ sprite
+  ☐ animation
+  ☐ spawning mechanics
+  ☐ AI(ish)
+
+UI:
+
+  ☐ Health gague and player name above player always (or when they get hit or are about to die)
+  ☐ follows player and hp bar turns yellow/red at certain breakpoints
+  ☐ mechanism to display text events when you trigger something
+  ☐ saving menu
+  ☐ item menu
+  ☐ other players menu
+    - whether they are CPU or something else
+
+Core Engine updates:
 
   ☐ remove wall jumps and wall sticking in general, its pointless right now, but no need to delete its code I guess
+  ☐ climbing ladders
+
+Online/Multiplayer:
+
+  ☐ spawn points
+  ☐ hold _?_ to spawn next to furthest player
+  ☐ allow for AI to join in
+    ☐ AI could possibly follow the nearest player to them and attack nearby enemies
+
+Camera:
+
+  ☐ Transition between types
+    ☐ follow at certain height
+    ☐ lock to room center
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 Sprites:
